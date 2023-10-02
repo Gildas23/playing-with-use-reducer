@@ -1,5 +1,5 @@
 {
-  "name": "classy-weather",
+  "name": "useGeoLocation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
